@@ -39,5 +39,5 @@ The reason for doing the project is to have more knowledge about the data, and m
 
 ## Note
 - This project was created by a beginner for educational purposes only. as such the analysis may not be comprehensive.
-- Contributions to the project are welcome, if you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
+- Contributions to the project are welcome, if you have suggestions for improvements or find any issues, please open an issue.
 - if you encounter any problems or have any questions or have questions, feel free by opening an issue.
